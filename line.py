@@ -9,7 +9,6 @@ def line():
     y1 = a * x1 + b
     y2 = a * x2 + b
 
-    # Cálculo de la distancia entre los puntos (sin usar math)
     distancia = ((x2 - x1) ** 2 + (y2 - y1) ** 2) ** 0.5
 
     # Resultados
