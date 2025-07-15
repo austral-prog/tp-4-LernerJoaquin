@@ -2,8 +2,8 @@ def line():
     """
     Calcula la distancia entre dos puntos sobre una recta de primer grado
     y muestra sus coordenadas completas.
-    La recta es de la forma: y = ax + b"""
-
+    La recta es de la forma: y = ax + b
+    """
     # Entrada de datos
     a = float(input("Ingrese el coeficiente A: "))
     b = float(input("Ingrese el coeficiente B: "))
